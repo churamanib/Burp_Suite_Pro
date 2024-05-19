@@ -14,7 +14,8 @@ ${WH}66        66 666 66  66        66  66 666     6666666666   66            66
 ${GR} 66       66     66   66      66   66    66   66       66  66            66  66       66  66     6 66     66       ${NL}
 ${GR}  666666  66     66    6666666     66     66 66         66 66            66 66         66 66       666 66666666 ${NL}
 "
-<a href="https://github.com/churamanib/">github 123</a>
+echo " https://github.com/churamanib > website > (github)
+"
 echo "  hello friend this is Churamani budhathoki ethical hacker (my nikname and public name (Amar))
 "
 # Check if Java JDK 19 is installed
